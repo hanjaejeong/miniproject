@@ -31,7 +31,12 @@
 ---
 
 ### 사용기술
-<img src="https://user-images.githubusercontent.com/107980523/210040263-53f78471-b40f-4a3a-9191-812cc8c11949.png" width="100"/><img src="https://user-images.githubusercontent.com/107980523/210040375-249ba1ce-4f8a-4327-993d-a1531604a842.png" width="100"/><img src="https://user-images.githubusercontent.com/107980523/210040429-892f6ccb-a1c5-4724-bf8b-9f39c6df0752.png" width="150"/>
+<div>
+<img src="https://user-images.githubusercontent.com/107980523/210040263-53f78471-b40f-4a3a-9191-812cc8c11949.png" width="100"/>
+<img src="https://user-images.githubusercontent.com/107980523/210040375-249ba1ce-4f8a-4327-993d-a1531604a842.png" width="100" margin-left="10"/>
+<img src="https://user-images.githubusercontent.com/107980523/210040429-892f6ccb-a1c5-4724-bf8b-9f39c6df0752.png" width="150" margin-left="20"/>
+</div>
+<br>
 <img src="https://user-images.githubusercontent.com/107980523/210040041-d49aaaaa-8f76-422d-a3dd-5e18efdb2d3c.png" width="500"/>
 
 ---
